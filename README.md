@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/ZoeImport">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoeimport&hide=C++,javascript,html,css&langs_count=8&size_count=0.5&weght_count=0.5&card_width=320&theme=ambient_gradient&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoeimport&hide=javascript,html,css,cpp&langs_count=8&size_count=0.5&weght_count=0.5&card_width=320&theme=ambient_gradient&layout=donut" />
 </a>
 
 
