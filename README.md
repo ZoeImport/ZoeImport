@@ -1,6 +1,3 @@
-<a href="https://github.com/ZoeImport">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zoeimport&hide=stars&how_icons=true&theme=ambient_gradient" />
-</a>
 
 <a href="https://github.com/ZoeImport">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoeimport&hide=javascript,html,css&langs_count=8&size_count=0.5&weght_count=0.5&card_width=320&theme=ambient_gradient&layout=donut" />
@@ -11,9 +8,6 @@
 <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoeimport&card_width=320&theme=ambient_gradient" />
 </a>
 
-<a href="https://github.com/ZoeImport">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=zoeimport&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B" />
-</a>
 
 
 
