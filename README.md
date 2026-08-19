@@ -1,90 +1,72 @@
+<!-- 顶部波浪横幅 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20👋%20I'm%20Zoe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20|%20Go%20Enthusiast&descSize=20&descAlignY=55" width="100%" />
+</div>
+
 <div align="center">
 
-<!-- 动态打字机标题 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Zoe;Backend+Developer+%7C+Go+Enthusiast;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<!-- 简介徽章 -->
+<!-- 社交徽章 -->
 [![GitHub followers](https://img.shields.io/github/followers/ZoeImport?style=social)](https://github.com/ZoeImport)
 [![Years Badge](https://badges.pufler.dev/years/ZoeImport)](https://github.com/ZoeImport)
 [![Repos Badge](https://badges.pufler.dev/repos/ZoeImport)](https://github.com/ZoeImport)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZoeImport.ZoeImport)](https://github.com/ZoeImport)
 
 </div>
 
 <br/>
 
----
-
+<!-- 统计卡片 -->
 <div align="center">
-
-## 🏙️ My Contribution Skyline
-
-<!-- 3D 立体贡献图 - 核心展示 -->
-<img src="https://github-3d-contrib.deno.dev/api?username=ZoeImport&theme=github_dark" width="100%" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZoeImport&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoeImport&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=javascript,html,css" />
 </div>
-
----
 
 <br/>
 
+<!-- 连续提交记录 -->
 <div align="center">
-
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZoeImport&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZoeImport&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-    </td>
-  </tr>
-</table>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoeImport&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 <br/>
 
+<!-- 活动图表 - 替代 3D 贡献图 -->
 <div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZoeImport&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
+  
+## 📈 Contribution Activity
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoeImport&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 <br/>
 
----
-
+<!-- 技能徽章 -->
 <div align="center">
 
 ## 💻 Tech Stack
 
-### Backend & Infrastructure
+**Backend & Infrastructure**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-087CFA?style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Databases & Cache
+**Databases & Cache**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### DevOps & Cloud
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Frontend
+**Others**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -93,46 +75,45 @@
 
 <br/>
 
----
-
+<!-- GitHub 成就 -->
 <div align="center">
 
-## 📈 Contribution Activity
+## 🏆 GitHub Profile Trophy
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZoeImport&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity%20Timeline" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ZoeImport&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
 <br/>
 
+<!-- 贡献蛇动画 -->
 <div align="center">
 
-## 🎯 Top Languages
+## 🐍 Contribution Snake
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoeImport&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=javascript,html,css" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZoeImport/ZoeImport/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZoeImport/ZoeImport/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZoeImport/ZoeImport/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 <br/>
 
----
-
-<div align="center">
-
-### 💡 Quote of the Day
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=default)
-
-</div>
-
-<br/>
-
+<!-- 底部 -->
 <div align="center">
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ZoeImport&icon=0&color=0)](https://visitcount.itsvg.in)
+### 💭 Random Dev Quote
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+*"First, solve the problem. Then, write the code." - John Johnson*
+
+<sub>Last updated: Auto-refreshed on every visit</sub>
 
 </div>
